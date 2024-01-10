@@ -1,0 +1,15 @@
+
+.bg {
+    /* The image used */
+    background-image: url("/img/img-1.jpg");
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  };
+  .submitBtn{
+    width: 80px;
+    height: 100px !important;
+  }
+  
